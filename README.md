@@ -1,1 +1,1 @@
-# sample-projetc
+hello this is sample project
